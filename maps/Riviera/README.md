@@ -1,0 +1,1 @@
+A huge asymmetric low-oil 10-player map designed mostly for skirmish games. Starting positions are unbalanced both in the sense of number of chokes and in the amount of oils. You may try a few and pick your favorite spot or check out different sorts of games emerging from different human and AI player layouts. 

@@ -1,0 +1,13 @@
+{
+    "name": "DA-julia-10-v1",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Ismir Ögal"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-10-07 08:27:28",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

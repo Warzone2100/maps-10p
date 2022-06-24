@@ -1,0 +1,13 @@
+{
+    "name": "DA-towers10v0",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Ismir Ögal"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-01-24 07:47:25",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "trash_v2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "tmp"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-02-12 19:53:27",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
