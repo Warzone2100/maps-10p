@@ -1,0 +1,13 @@
+{
+    "name": "DA-firefight5x5b",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ismir Ögal"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-06-13 08:58:16",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

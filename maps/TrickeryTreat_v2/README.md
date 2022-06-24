@@ -1,0 +1,1 @@
+all oil trails have an additional oil barrel. scavs in the center of the map preventing players to rush. provided units are damaged, use them with care
