@@ -1,0 +1,13 @@
+{
+    "name": "Fab_MountSq2BDC",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Fabio_IT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-09-29 01:18:52",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

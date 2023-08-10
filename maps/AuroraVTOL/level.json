@@ -1,0 +1,13 @@
+{
+    "name": "AuroraVTOL",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Calculus"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-03-24 17:04:40",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

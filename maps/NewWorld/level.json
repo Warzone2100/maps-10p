@@ -1,0 +1,13 @@
+{
+    "name": "NewWorld",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "RBMW-Fedaykin"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2018-12-08 21:29:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

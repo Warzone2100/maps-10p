@@ -1,0 +1,13 @@
+{
+    "name": "NTW10_v2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "Perseus"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-08-27 02:04:08",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

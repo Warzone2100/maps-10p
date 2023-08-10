@@ -1,0 +1,13 @@
+{
+    "name": "DA-mt-ray-v1",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Ismir Ögal"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-10-22 09:37:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

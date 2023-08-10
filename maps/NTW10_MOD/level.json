@@ -1,0 +1,13 @@
+{
+    "name": "NTW10_MOD",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-02-22 01:56:55",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

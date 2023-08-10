@@ -1,0 +1,13 @@
+{
+    "name": "Emergence",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-03-15 06:28:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Mono 2.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Metacity-1-01",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-04-22 19:28:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Mono 2.10"
+}

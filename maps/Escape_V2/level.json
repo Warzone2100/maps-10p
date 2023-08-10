@@ -1,0 +1,13 @@
+{
+    "name": "Escape_V2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Giani"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-07-19 22:33:56",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

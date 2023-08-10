@@ -1,0 +1,13 @@
+{
+    "name": "NTW-C10",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "DefCom"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-01-20 20:34:05",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

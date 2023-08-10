@@ -1,0 +1,13 @@
+{
+    "name": "FRONT_common_v2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ig rok"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-06-11 20:32:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

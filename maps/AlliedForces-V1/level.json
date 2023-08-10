@@ -1,0 +1,13 @@
+{
+    "name": "AlliedForces-V1",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "BoomEi"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2015-03-02 16:56:36",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

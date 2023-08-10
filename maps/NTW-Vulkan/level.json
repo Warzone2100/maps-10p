@@ -1,0 +1,13 @@
+{
+    "name": "NTW-Vulkan",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "BOSS"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2017-02-26 22:25:09",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

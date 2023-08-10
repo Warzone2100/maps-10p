@@ -1,0 +1,13 @@
+{
+    "name": "Madeira_Warfare",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "rbabbit"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2017-02-02 19:46:39",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

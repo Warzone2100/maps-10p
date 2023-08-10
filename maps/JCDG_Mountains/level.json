@@ -1,0 +1,13 @@
+{
+    "name": "JCDG_Mountains",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Meyer Alexandre"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2012-05-29 20:39:57",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Windows"
+}

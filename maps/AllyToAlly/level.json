@@ -1,0 +1,13 @@
+{
+    "name": "AllyToAlly",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Wongel"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-02-24 15:00:20",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

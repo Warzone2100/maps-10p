@@ -1,0 +1,13 @@
+{
+    "name": "ClassicLowOil_RQ",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Red_Queen"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-10-01 20:26:42",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

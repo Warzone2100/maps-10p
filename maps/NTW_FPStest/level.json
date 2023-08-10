@@ -1,0 +1,13 @@
+{
+    "name": "NTW_FPStest",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "crabster"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-02-24 13:16:35",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

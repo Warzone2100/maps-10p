@@ -1,0 +1,13 @@
+{
+    "name": "RB-fjordz",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "rb"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2017-01-12 19:41:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
