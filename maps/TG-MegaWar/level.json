@@ -1,0 +1,13 @@
+{
+    "name": "TG-MegaWar",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "Tagra"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-07-25 00:58:58",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

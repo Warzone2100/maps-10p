@@ -1,0 +1,13 @@
+{
+    "name": "ntw5v5_low",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "rbabbit"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-03-06 19:08:00",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

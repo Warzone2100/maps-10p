@@ -1,0 +1,13 @@
+{
+    "name": "TrickeryTreat",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "tmp[BDC]"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-12-19 18:58:08",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ntw_trail10pro2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "tmp"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-08-02 00:24:42",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "moisture_v3",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "tmp[BDC]"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-29 20:50:14",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

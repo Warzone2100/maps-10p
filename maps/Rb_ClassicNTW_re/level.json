@@ -1,0 +1,13 @@
+{
+    "name": "Rb_ClassicNTW_re",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Punkech Patel"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-02-17 05:44:36",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "thegame99",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "asdf"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-02-03 18:55:34",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}
