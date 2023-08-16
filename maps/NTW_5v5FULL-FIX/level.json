@@ -1,0 +1,16 @@
+{
+    "name": "NTW_5v5FULL-FIX",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Red_Queen"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "additional-authors": [
+        {
+            "name": "Anonymous"
+        }
+    ],
+    "generator": "wzmaplib 1.2.2"
+}
