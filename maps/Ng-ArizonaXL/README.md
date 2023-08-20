@@ -1,0 +1,1 @@
+A large version of miniarizona map
