@@ -1,0 +1,1 @@
+Concept of various siding and flanking, reverse and surprise potential offensives. While bases are all grouped in a same box area, it will ask a single, determined and powerful action from on side to take the final decision. Snow bowl effect if there really minimalist.
