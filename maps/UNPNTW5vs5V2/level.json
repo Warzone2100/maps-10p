@@ -1,0 +1,13 @@
+{
+    "name": "UNPNTW5vs5V2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "UnP_Gama"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2020-07-23 20:52:46",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
