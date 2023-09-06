@@ -1,0 +1,1 @@
+Asymmetrical skirmish map for 10 players

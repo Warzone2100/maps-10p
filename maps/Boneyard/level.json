@@ -1,0 +1,13 @@
+{
+    "name": "Boneyard",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "BorgCubeJanitor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2022-02-21 16:30:50",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
