@@ -1,0 +1,1 @@
+5v5 NTW with helper slot
