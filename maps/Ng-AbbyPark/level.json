@@ -1,0 +1,13 @@
+{
+    "name": "Ng-AbbyPark",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "bob marley"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2023-03-16 18:37:14",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
