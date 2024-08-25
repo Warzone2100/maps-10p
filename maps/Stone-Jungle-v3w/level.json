@@ -1,0 +1,13 @@
+{
+    "name": "Stone-Jungle-v3w",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2022-06-13 14:16:15",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
