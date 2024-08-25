@@ -1,0 +1,13 @@
+{
+    "name": "Ng-TundraWave",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Nergal"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2024-01-07 17:21:32",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
