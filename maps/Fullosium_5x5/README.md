@@ -1,0 +1,1 @@
+5x5 version of map "Fullosium2"

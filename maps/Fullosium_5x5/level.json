@@ -1,0 +1,13 @@
+{
+    "name": "Fullosium_5x5",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Opa, Paluk Fix"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2023-12-27 19:56:16",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
