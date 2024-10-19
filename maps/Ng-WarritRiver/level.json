@@ -1,0 +1,13 @@
+{
+    "name": "Ng-WarritRiver",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "bob marley"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2022-09-29 20:39:16",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
