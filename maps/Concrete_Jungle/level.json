@@ -1,0 +1,13 @@
+{
+    "name": "Concrete_Jungle",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "Mtlhead7"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2024-10-21 19:17:02",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Windows"
+}
