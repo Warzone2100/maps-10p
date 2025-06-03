@@ -1,0 +1,13 @@
+{
+    "name": "DA-julia-40o10p",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "Flex seal"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2025-06-03 23:35:01",
+    "generator": "wzmaplib 1.3.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
