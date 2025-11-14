@@ -1,0 +1,13 @@
+{
+    "name": "MK_MadScavs10",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "urban",
+    "author": {
+        "name": "MK"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2025-10-05 19:42:52",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
