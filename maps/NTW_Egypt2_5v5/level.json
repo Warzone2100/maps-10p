@@ -1,0 +1,12 @@
+{
+    "name": "NTW_Egypt2_5v5",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2025-03-21 08:43:46",
+    "generator": "wzmaplib 1.4.4"
+}
