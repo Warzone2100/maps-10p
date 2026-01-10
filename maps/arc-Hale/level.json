@@ -1,0 +1,13 @@
+{
+    "name": "arc-Hale",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "rockies",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2025-12-06 04:16:01",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
