@@ -1,0 +1,13 @@
+{
+    "name": "PA_Framing",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "wanz"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2023-02-09 14:02:30",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
