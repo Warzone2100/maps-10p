@@ -1,0 +1,12 @@
+{
+    "name": "Azuda",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2026-05-14 11:14:46",
+    "generator": "wzmaplib 1.4.4"
+}
